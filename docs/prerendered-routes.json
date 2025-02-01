@@ -1,0 +1,9 @@
+{
+  "routes": {
+    "/Angular": {},
+    "/Angular/about": {},
+    "/Angular/childchildrelation": {},
+    "/Angular/contact": {},
+    "/Angular/home": {}
+  }
+}
