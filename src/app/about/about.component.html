@@ -1,0 +1,7 @@
+<h2>{{Manager}} controls {{employees.length}} Employees</h2>
+
+<app-child
+  *ngFor="let employee of employees"
+  [Employee]="employee"
+  [Manager]="Manager">
+</app-child>
